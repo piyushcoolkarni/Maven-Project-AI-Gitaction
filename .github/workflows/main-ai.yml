@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # GitHub Environment where OPENAI_API_KEY secret is stored
+    # GitHub Environment where OPENAI_API_KEY secret is stored 
     environment: production
 
     steps:
